@@ -1,0 +1,84 @@
+Modelo de Processos Identificados
+
+1. Recebimento e Triagem de Solicitações
+
+Entrada: Solicitações de clientes por diversos canais.
+Atividades:
+
+Atendimento via SAC (telefone, chat, e-mail, aplicativo).
+
+Autoatendimento via plataformas digitais.
+
+Atendimento via redes sociais.
+
+Atendimento presencial em loja física.
+
+Triagem inicial: classificação do problema, identificação de urgência e coleta de informações.
+Saída: Chamado classificado e encaminhado para resolução.
+
+2. Diagnóstico e Resolução
+
+Entrada: Chamado classificado.
+Atividades:
+
+Análise técnica do status da rede.
+
+Testes remotos de conexão e configuração.
+
+Uso de ferramentas de monitoramento.
+
+Soluções imediatas: reinicialização remota, reconfiguração de rede, orientação ao cliente.
+
+Escalonamento para equipes especializadas (Nível 2 e 3) se necessário.
+Saída: Problema resolvido remotamente ou encaminhado para atendimento em campo.
+
+3. Atendimento em Campo
+
+Entrada: Chamado escalonado para atendimento físico.
+Atividades:
+
+Agendamento de visitas técnicas.
+
+Comunicação com o cliente.
+
+Execução do serviço (reparo, instalação, testes locais).
+Saída: Problema resolvido com confirmação local.
+
+4. Gestão de Incidentes Críticos
+
+Entrada: Identificação de falhas em larga escala.
+Atividades:
+
+Monitoramento contínuo com sistemas de alerta.
+
+Mapeamento de áreas afetadas.
+
+Ação de contingência (redundância de rede, comunicação proativa, coordenação com órgãos reguladores).
+Saída: Redução do impacto e resolução do incidente.
+
+5. Pós-Atendimento
+
+Entrada: Problema resolvido.
+Atividades:
+
+Follow-up com cliente.
+
+Pesquisa de satisfação.
+
+Documentação do chamado no CRM.
+
+Análise de tendências para prevenção de problemas.
+Saída: Feedback registrado e melhorias identificadas.
+
+6. Suporte a Dispositivos e Aplicativos
+
+Entrada: Dúvidas ou problemas com equipamentos ou apps.
+Atividades:
+
+Assistência técnica para configuração e garantia de dispositivos.
+
+Suporte para aplicativos da operadora.
+Saída: Dispositivo ou aplicativo funcionando corretamente.
+
+Este modelo organiza os processos desde o recebimento da solicitação até o suporte pós-atendimento, garantindo eficiência na resolução de problemas.
+
